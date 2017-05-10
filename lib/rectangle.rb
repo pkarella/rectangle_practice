@@ -7,4 +7,13 @@ end
 def square?
 @length == @width
 end
+
+
+def length
+  @length
+end
+def width
+  @width
+end
+
 end
